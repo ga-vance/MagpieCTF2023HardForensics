@@ -14,4 +14,4 @@ One of the prisoners sent us this picture. See what you can find.
 
 
 ## Flag
-magpie{0gr35_h4v3_l4y3r5_t00}
+magpie{0gr35_h4v3_l4y3r5_t0o}
