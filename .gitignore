@@ -1,3 +1,6 @@
 # System/IDE Files
 .DS_Store
 .vscode
+
+# Testing Folder
+/buildingFiles
